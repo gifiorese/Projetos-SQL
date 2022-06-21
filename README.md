@@ -10,11 +10,11 @@
 </div>
 
 ## Projetos
-1) [MySQL/SQL e Web App (EJS+CSS+HTML)](https://github.com/gifiorese/Projetos---SQL/tree/main/MySQL_Bootcamp)
+1) [MySQL/SQL e Web App (EJS+CSS+HTML)](https://github.com/gifiorese/Projetos-SQL/tree/main/MySQL_Bootcamp)
 
 ## Hacker Rank
-1) [SQL Basic](https://github.com/gifiorese/Projetos---SQL/blob/main/HackerRank%20SQL%20Basic.md)
-2) [SQL Intermediate](https://github.com/gifiorese/Projetos---SQL/blob/main/HackerRank%20SQL%20Intermediate.md)
+1) [SQL Basic](https://github.com/gifiorese/Projetos-SQL/blob/main/HackerRank%20SQL%20Basic.md)
+2) [SQL Intermediate](https://github.com/gifiorese/Projetos-SQL/blob/main/HackerRank%20SQL%20Intermediate.md)
 
 
 <!---
